@@ -1,2 +1,2 @@
 # KNN-Project
-Two projects using KNN
+Two projects using KNN.
