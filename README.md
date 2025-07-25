@@ -8,6 +8,8 @@ Two projects using KNN.
 
  Tools: Python, Tableau, Powerpoint, Excel
 
+ Powerpoint: https://docs.google.com/presentation/d/1-l7ds_G77zlXJJk593fkn43S2hKEG4GB/edit?usp=sharing&ouid=110314089336332890276&rtpof=true&sd=true
+
  Tableau Dashboard: https://public.tableau.com/app/profile/paloma.valdes/viz/iPhoneConsumerDemographics/Dashboard1
 
  Algorithms Used:
